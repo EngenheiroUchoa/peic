@@ -16,7 +16,7 @@ O **Planejamento Estratégico de Inovação Corporativa \(PEIC\)** é um _framew
 
 Em janeiro de 2019, o [Engenheiro Helton Nogueira Uchoa](http://helton.uchoa.com) apresentou publicamente este conceito com intuito de colaborar nos processos de inovação em nível corporativo. Este produto é resultado da longa experiência em projetos envolvendo inovação com foco em tecnologia e das experiências mais recentes de imersão nos ecossistemas das startups.
 
-Neste vídeo, entenda um pouco de como surgiu a inspiração inicial para criação do **PEIC** e tenha uma compreensão rápida de todo o conjunto.
+Neste vídeo, entenda um pouco de como surgiu a inspiração inicial para criação do **PEIC** e tenha uma compreensão rápida do conceito.
 
 {% embed url="https://www.youtube.com/embed/IW0TrkyyzqY" %}
 
