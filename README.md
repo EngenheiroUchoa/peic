@@ -18,7 +18,7 @@ Em janeiro de 2019, o [Engenheiro Helton Nogueira Uchoa](http://helton.uchoa.com
 
 Neste vídeo, entenda um pouco de como surgiu a inspiração inicial para criação do **PEIC** e tenha uma compreensão rápida de todo o conjunto.
 
-[https://youtu.be/IW0TrkyyzqY](https://youtu.be/IW0TrkyyzqY)
+{% embed url="https://www.youtube.com/embed/IW0TrkyyzqY" %}
 
 ## Licenciamento
 
